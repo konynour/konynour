@@ -28,7 +28,6 @@
 <h3 align="left">🧰 Version Control</h3>
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" /></td>
 	</tr>
 </table>
 
@@ -37,8 +36,6 @@
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" /></td>
 	</tr>
 </table>
 
@@ -61,8 +58,6 @@
 <h3 align="left">✨ UI/UX</h3>
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" /></td>
 	</tr>
 </table>
 
