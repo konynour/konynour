@@ -43,7 +43,6 @@
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" /></td>
     <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9" /></td>
     <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b" /></td>
-    <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain-wordmark.svg" /></td>
 	</tr>
 </table>
 
