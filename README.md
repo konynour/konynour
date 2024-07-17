@@ -128,6 +128,7 @@
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" /></td>
 		<td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></td>
 		<td><img width="40" src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000" /></td>
+		<td><img width="40" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" /></td>
 	</tr>
 </table>
 
