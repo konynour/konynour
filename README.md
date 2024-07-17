@@ -36,7 +36,8 @@
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" /></td>
-	</tr>
+       <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></td>
+		</tr>
 </table>
 
   <table>
