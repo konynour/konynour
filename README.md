@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/edc1f89b-c61e-401c-be58-103567236a3c)<h1 align="center">Hi 👋, I'm Nour Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Nour Mohamed</h1>
 <h3 align="center">Pentester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iryodev&label=Profile%20views&color=e7a917&style=flat" alt="ryo" /> </p>
