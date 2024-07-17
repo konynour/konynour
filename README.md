@@ -99,8 +99,6 @@
 <h3 align="left">🐍 Python</h3>
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" /></td>
 	</tr>
 </table>
 
