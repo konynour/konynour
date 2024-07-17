@@ -73,27 +73,6 @@
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" /></td>
     <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526" /></td>
 	</tr>
-  <tr>
-	<td><img width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" /></td>
-     <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" /></td>
-	</tr>
-
-   <tr>
-	<td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/387d7c1e-9cda-4a59-a037-c873fb3218e6" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" /></td>
-     <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" /></td>
-	</tr>
 </table>
 
   <table>
@@ -133,22 +112,7 @@
 	</tr>
 </table>
 
- <table>
-<h3 align="left">🦾 Rust | 🐿️ Go</h3>
-	<tr>
-		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" /></td>
-	</tr>
-</table>
 
- <table>
-<h3 align="left">📱 Mobile Dev</h3>
-	<tr>
-		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" /></td>
-	</tr>
-</table>
 
  <table>
 <h3 align="left">💾 Database</h3>
@@ -156,22 +120,9 @@
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" /></td>
 	</tr>
 </table>
 
- <table>
-<h3 align="left">🤿 DevOps</h3>
-	<tr>
-		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" /></td>
-	</tr>
-</table>
 
  <table>
 <h3 align="left">☁️ Cloud</h3>
