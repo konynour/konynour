@@ -22,6 +22,7 @@
 ![Network](https://img.shields.io/badge/-Network-0078D7?style=flat-square&logo=cisco&logoColor=white)
 ![OS](https://img.shields.io/badge/-Operating%20Systems-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4d4d4d?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 
 <p align="center">
