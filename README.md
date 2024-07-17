@@ -70,9 +70,6 @@
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" /></td>
     <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></td>
-    <td><img width="40" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" /></td>
-    <td><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526" /></td>
 	</tr>
 </table>
 
