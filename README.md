@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/nour_kony?igsh=a2p4MmtwdzRxM3A=" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9.rkf" height="30" width="40" />
 </a>
-<a href="https://discord.com/invite/9PuYz7S7" target="blank">
+<a href="https://discord.com/invite/3bru4Sas" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yWAVkkSthz" height="30" width="40" />
 </a>
 </p>
