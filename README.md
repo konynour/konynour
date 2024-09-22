@@ -54,6 +54,3 @@ i'm currently working with me to help my self<br>I NEED TO SLEEEP FOR MY HEAD<br
 	</tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iryodev&show_icons=true&theme=dark&title_color=e7a917&text_color=ffffff&bg_color=18181d&locale=en&layout=compact" alt="ryo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iryodev&show_icons=true&theme=dark&title_color=e7a917&text_color=ffffff&bg_color=18181d&cache_seconds=1800&locale=en" alt="ryo" /></p>
