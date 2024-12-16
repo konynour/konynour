@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **nournour913mohamed@gmail.com**
 
-- ⚡ Fun fact **I NEED TO SLEEEP FOR MY HEAD**
+- ⚡ Fun fact **I NEED TO SLEEP FOR MY HEAD**
 </p>
 
 
