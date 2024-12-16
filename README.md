@@ -16,8 +16,8 @@
 
 
   
-
-# 💫 About Me:
+<p>
+	# 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 👨‍💻 All of my projects are unavailable for now
@@ -27,6 +27,7 @@
 - 📫 How to reach me **nournour913mohamed@gmail.com**
 
 - ⚡ Fun fact **I NEED TO SLEEEP FOR MY HEAD**
+</p>
 
 
 
