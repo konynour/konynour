@@ -25,7 +25,15 @@
 
   <table>
 # 💫 About Me:
-i'm currently working with me to help my self<br>I NEED TO SLEEEP FOR MY HEAD<br>
+
+- 👨‍💻 All of my projects are unavailable for now
+
+- 💬 Ask me about **Embedded system -- security **
+
+- 📫 How to reach me **nournour913mohamed@gmail.com**
+
+- ⚡ Fun fact **I NEED TO SLEEEP FOR MY HEAD**
+
 
 
 ## 🌐 Socials:
