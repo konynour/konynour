@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nour Mohamed</h1>
 <h3 align="center"></h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iryodev&label=Profile%20views&color=e7a917&style=flat" alt="ryo" /> </p>
 <p align="center" style="margin-top: -2em;">
   <img width="50%" src="https://github.com/user-attachments/assets/e349932e-4c06-4ef7-b39e-09ddfd8a9bd1.gif">
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iryodev&label=Profile%20views&color=e7a917&style=flat" alt="ryo" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/nour_kony?igsh=a2p4MmtwdzRxM3A=" target="blank">
