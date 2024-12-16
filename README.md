@@ -30,7 +30,7 @@
 
 
 
-## 🌐 Socials:
+ 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1177648558300741763) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nour_kony?igsh=a2p4MmtwdzRxM3A=) 
 
