@@ -51,6 +51,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nourkony&icon=9&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nourkony&icon=9&color=1" alt="Visitor Count">
+</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  <table>
