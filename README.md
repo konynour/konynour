@@ -50,7 +50,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konynour&theme=dark" alt="konynour" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nourkony&icon=9&color=1)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nourkony&icon=9&color=1" alt="Visitor Count">
 </a>
