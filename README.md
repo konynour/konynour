@@ -2,7 +2,6 @@
 <h3 align="center"></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konynour&label=Profile%20views&color=e7a917&style=flat" alt="konynour" /> </p>
  <img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 <!-- <p align="center" style="margin-top: -2em;">
   <img width="50%" src="https://github.com/user-attachments/assets/e349932e-4c06-4ef7-b39e-09ddfd8a9bd1.gif">
