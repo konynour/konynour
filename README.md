@@ -22,8 +22,6 @@
 <p>
 	# 💫 About Me:
  
-- 🌱 I’m currently learning DATA SCIENCE 
-
 - 👨‍💻 All of my projects are unavailable for now
 
 - 💬 Ask me about **Embedded system -- security **
