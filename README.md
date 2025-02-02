@@ -20,10 +20,11 @@
 
 <p>
 	# 💫 About Me:
+- 🌱 I’m currently learning Data science 
  
 - 👨‍💻 All of my projects are unavailable for now
 
-- 💬 Ask me about **Embedded system -- security -- Data science **
+- 💬 Ask me about **Embedded system -- security **
 
 - 📫 How to reach me **nournour913mohamed@gmail.com**
 
