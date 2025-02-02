@@ -23,7 +23,7 @@
  
 - 👨‍💻 All of my projects are unavailable for now
 
-- 💬 Ask me about **Embedded system -- security **
+- 💬 Ask me about **Embedded system -- security -- Data science **
 
 - 📫 How to reach me **nournour913mohamed@gmail.com**
 
