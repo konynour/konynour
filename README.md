@@ -52,7 +52,7 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nourkony&icon=9&color=1" alt="Visitor Count"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=konynour &label=Profile%20views&color=0e75b6&style=flat" alt="konynour" /> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=konynour&label=Profile%20views&color=0e75b6&style=flat" alt="konynour" /> </p>
  -->
 </a>
