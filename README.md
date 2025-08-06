@@ -21,7 +21,7 @@
 <p>
 	# 💫 About Me:
 	
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently learning Data science & Ros
  
 - 👨‍💻 All of my projects are unavailable for now
 
