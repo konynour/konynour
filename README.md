@@ -117,7 +117,7 @@
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
   <!-- GraphQL -->
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
@@ -165,8 +165,8 @@
   </a>
   <!-- Gazebo -->
   <a href="https://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="gazebo" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/>
+  </a>>
 </p>
 
 # 📊 GitHub Stats:
