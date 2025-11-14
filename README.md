@@ -175,10 +175,6 @@
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
   </a>
-  <!-- LangChain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" alt="langchain" width="40" height="40"/>
-  </a>
   <!-- LangGraph -->
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/>
