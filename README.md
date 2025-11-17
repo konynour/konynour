@@ -201,7 +201,7 @@
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konynour&show_icons=true&locale=en&layout=compact&theme=dark" alt="konynour" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konynour&show_icons=true&locale=en&theme=dark" alt="konynour" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=konynour&theme=dark" alt="konynour" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konynour&theme=dark" alt="konynour" /></p>
 
 ---
 <a href="https://visitcount.itsvg.in">
