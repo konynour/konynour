@@ -208,12 +208,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=konynour&theme=dark" width="45%">
   </p>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konynour&show_icons=true&locale=en&layout=compact&theme=dark" alt="konynour" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=konynour&theme=dark" alt="konynour" width="45%"/>
-  </p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=konynour&show_icons=true&locale=en&theme=dark" alt="konynour" width="50%"/>
 </div>
 
 ---
