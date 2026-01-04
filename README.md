@@ -199,14 +199,21 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=konynour&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  <img src="https://github-stats-alpha.vercel.app/api?username=konynour&cc=22272e&tc=00d9ff&ic=fff&bc=0000" alt="Stats">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konynour&theme=tokyonight" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konynour&theme=dark" width="100%">
   
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=konynour&theme=tokyonight" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=konynour&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=konynour&theme=dark" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=konynour&theme=dark" width="45%">
   </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konynour&show_icons=true&locale=en&layout=compact&theme=dark" alt="konynour" width="45%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=konynour&theme=dark" alt="konynour" width="45%"/>
+  </p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=konynour&show_icons=true&locale=en&theme=dark" alt="konynour" width="50%"/>
 </div>
 
 ---
