@@ -195,6 +195,10 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
+  <!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/>
+</a>
 </p>
 
 # 📊 GitHub Stats:
