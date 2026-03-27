@@ -178,7 +178,17 @@
   <!-- LangGraph -->
   <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langgraph" width="40" height="40"/>
+	  <!--huggingface -->
   </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+</a>
+
+<!-- Ollama -->
+<a href="https://ollama.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="ollama" width="40" height="40"/>
+</a>
+
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
